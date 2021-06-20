@@ -2,7 +2,7 @@
 
 set git /usr/bin/git 
 set u "yangle92"
-set p "Yl15271819569"
+set p "********"
 
 cd /root/data/Script/
 
