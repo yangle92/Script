@@ -1,0 +1,12 @@
+  662  git init
+  668  cat .git/
+  672  git status
+  678  git config --global user.name "yangle92"
+  679  git commit
+  680  git config --global user.email "821428991@qq.com"
+  681  git commit
+  687  git push origin master
+  688  git commit
+  730  git remote add origin git@github.com:yangle92/Script20210620.git
+  731  git push -u origin master
+  732  ssh -T git@github.com
